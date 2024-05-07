@@ -1,6 +1,6 @@
 # Earthquake-prediction-using-Artificial Intelligence learning-models
 
-A project done for the course CSE3505 - Essentials of Data Analytics under <b>ELANGO N M</b>
+A project done for the course 18CSC305J - Artificial Intelligence under <b>Robert Singh</b>
 <h3>Team members</h3>
 <ul>
 <li><b>Vyshnav Veeravalli</b>
